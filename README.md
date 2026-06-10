@@ -60,5 +60,5 @@ Project ini masih bisa dikembangkan lebih lanjut, seperti:
 ## Pembuat
 
 Mahasiswa 1: I Gede Mahea Adinata (42530041)  
-Mahasiswa 2: I Gede Dika Mahendra Putra  
+Mahasiswa 2: I Gede Dika Mahendra Putra (42530027)
 Mahasiswa 3: Abdullah Sami (42530018)
